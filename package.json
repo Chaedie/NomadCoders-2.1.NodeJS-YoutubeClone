@@ -1,0 +1,27 @@
+{
+  "name": "nomad-youtube",
+  "version": "1.0.0",
+  "description": "The best videos app.",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaedie/NomadCoders_2.YotubeClone.git"
+  },
+  "author": "Chaedie<chaedong_im_dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chaedie/NomadCoders_2.YotubeClone/issues"
+  },
+  "homepage": "https://github.com/Chaedie/NomadCoders_2.YotubeClone#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/node": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "nodemon": "^2.0.18"
+  }
+}
