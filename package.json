@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/Chaedie/NomadCoders_2.YotubeClone#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.18.1",
     "mongoose": "^6.4.3",
     "morgan": "^1.10.0",
